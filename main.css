@@ -1,0 +1,113 @@
+
+body{
+    text-align: center;
+    margin: 0;
+    font-family: 'Solitreo', Courier, monospace;
+}
+.top_container{
+    position: relative;
+    padding-top: 0;
+    background-color:#EAF6F6;
+    margin-top:0px;
+    margin-left: 0;
+  
+
+}
+.middle-container{
+   background-color:#ffffff;
+   padding-bottom: 2%; 
+}
+.bottom_container{
+   background-color:#11999E;
+  
+    padding-top: 3%;
+    padding-bottom: 0; 
+}
+h1{
+    color:#66BFBF;
+    margin: 5px 0 0 0;
+    font-size: 5.625rem;
+    font-family: sacramento, serif;
+    line-height: 2;
+}
+.bcld{
+    position: absolute;
+}
+.ucld{
+     margin-right:3%;
+    margin-top: 2%;
+    margin-left: 3%;
+
+}
+h2{
+    font-size: 2.5rem;
+    margin: 0 0 0 0;
+    color:#66BFBF;
+    font weight: normal;
+}
+.skill-row{
+    max-width: 50%;
+   margin:100px auto 100px auto;
+   text-align: left;
+   line-height: 2;
+   
+}
+.img1{
+    width:25%;
+    margin-right: 30px;
+    float:left;
+}
+.img2{
+    width:25%;
+    margin-right: 30px;
+    float:right;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin:auto;
+    
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  P{
+    color:#40514E;
+  }
+  hr{
+    border-color: #40514E;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 6px;
+    width: 5%;
+  }
+  .pl{
+    margin:0;
+    color:#000;
+  }
+  a{
+    color:#EAF6F6;
+    text-decoration:none;
+    margin:auto;
+    padding-left:1% ;
+    padding-right: 1%;
+  }
